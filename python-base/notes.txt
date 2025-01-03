@@ -1,0 +1,5 @@
+Video: 5 || 03/01/25
+
+Inicio do script python:
+"""Escolhe o interpretador """
+#!/usr/bin/env python3
